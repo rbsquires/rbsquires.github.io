@@ -1,14 +1,13 @@
 [Back to Portfolio](./)
 
-Sudoku Group Project
+Project 4 Title
 ===============
 
--   **Class: Object Oriented Programming (CSCI 325)** 
--   **Group: Matt W., Mack W., Robert S.** 
--   **Grade: A** 
--   **Language(s): Java** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/rbsquires/CSCI-325-Sudoku)  
-    (Please [email me](mailto:rbsquires@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:** 
+-   **Grade:** 
+-   **Language(s):** 
+-   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
