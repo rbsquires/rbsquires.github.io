@@ -12,7 +12,7 @@ Sudoku Group Project
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This Sudoku board game was built with Java. Each group was given the chance to pick what their semester project would be, given instructor's approval. We Built an arcade style version of the Sudoku game. It contains different levels of difficulty: easy, medium, and hard. If the player successfully solves the Sudoku puzzle in a quick enough time they will be given the chance to enter their initials into the highscores leaderboard. The application was built with a small amount of boards, but is scalable for the end user. They can download unsolved Sudoku boards and load them into the chosen difficulties file. The boards are chosen at random from the pool in each difficulty level.
 
 ## How to compile and run the program
 
@@ -31,14 +31,29 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/Sudoku Images/Main GUI.png)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](iimages/Sudoku Images/New Game.png)  
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/Sudoku Images/Failed Game.png)  
 Fig 3. Feedback when an error occurs.
+
+![screenshot](images/Sudoku Images/Show Solution After Fail.png)  
+Fig 4. Feedback when an error occurs.
+
+![screenshot](images/Sudoku Images/Show Solution No Try.png)  
+Fig 5. Feedback when an error occurs.
+
+![screenshot](images/Sudoku Images/Successful Game.png)  
+Fig 6. Feedback when an error occurs.
+
+![screenshot](images/Sudoku Images/Enter Highscore.png)  
+Fig 7. Feedback when an error occurs.
+
+![screenshot](images/Sudoku Images/Updated Highscores.png)  
+Fig 8. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
