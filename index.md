@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Sudoku (Group Project) | CSCI 325](project1)
 
-![Sudoku](images/Sudoku Screenshots/Main GUI.png)
+![Sudoku](images/Sudoku Images/Main GUI.png)
 
 ---
 ### [Project 2 Title | CSCI 315](project2)
