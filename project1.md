@@ -7,7 +7,7 @@ Sudoku Group Project
 -   **Group: Mack W., Matt W., Robert S.** 
 -   **Grade: A** 
 -   **Language(s): Java** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/rbsquires/CSCI-325-Sudoku)  
+-   **Source Code Repository:** [CSCI 325 Sudoku](https://github.com/rbsquires/CSCI-325-Sudoku)  
     (Please [email me](mailto:rbsquires@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
