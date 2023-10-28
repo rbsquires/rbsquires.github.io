@@ -5,7 +5,7 @@ HTML Parser
 
 -   **Class: Data Structure Analysis** 
 -   **Grade: A** 
--   **Language(s):** <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+-   **Language(s): <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />** 
 -   **Source Code Repository:** [features/mastering-markdown](https://github.com/rbsquires/HTML-Parser.git)  
     (Please [email me](mailto:rbsquires@csustudent.net?subject=GitHub%20Access) to request access.)
 
