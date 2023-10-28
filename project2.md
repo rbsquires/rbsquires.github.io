@@ -35,25 +35,25 @@ Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eius
 Fig 1. The launch screen
 
 ![screenshot](images/Sudoku Images/New Game.png)  
-Fig 2. Example output after input is processed.
+Fig 2. Difficulty selected.
 
 ![screenshot](images/Sudoku Images/Failed Game.png)  
-Fig 3. Feedback when an error occurs.
+Fig 3. Failed to solve Sudoku board.
 
 ![screenshot](images/Sudoku Images/Show Solution After Fail.png)  
-Fig 4. Feedback when an error occurs.
+Fig 4. Showing solution to the current board.
 
 ![screenshot](images/Sudoku Images/Show Solution No Try.png)  
-Fig 5. Feedback when an error occurs.
+Fig 5. Showing solution without submitting attempt.
 
 ![screenshot](images/Sudoku Images/Successful Game.png)  
-Fig 6. Feedback when an error occurs.
+Fig 6. Solved Sudoku board.
 
 ![screenshot](images/Sudoku Images/Enter Highscore.png)  
-Fig 7. Feedback when an error occurs.
+Fig 7. New high score entry panel.
 
 ![screenshot](images/Sudoku Images/Updated Highscores.png)  
-Fig 8. Feedback when an error occurs.
+Fig 8. Updated Sudoku high scores.
 
 ## 3. Additional Considerations
 
