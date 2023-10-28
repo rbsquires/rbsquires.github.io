@@ -1,19 +1,20 @@
 [Back to Portfolio](./)
 
-Project 2 Title
+Sudoku Group Project
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class: Object Oriented Programming (CSCI 325)** 
+-   **Group: Mack W., Matt W., Robert S.** 
+-   **Grade: A** 
+-   **Language(s): Java** 
+-   **Source Code Repository:** [CSCI 325 Sudoku](https://github.com/rbsquires/CSCI-325-Sudoku)  
+    (Please [email me](mailto:rbsquires@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This Sudoku board game was built with Java. Each group was given the chance to pick what their semester project would be, given instructor's approval. We Built an arcade style version of the Sudoku game. It contains different levels of difficulty: easy, medium, and hard. If the player successfully solves the Sudoku puzzle in a quick enough time they will be given the chance to enter their initials into the highscores leaderboard. The application was built with a small amount of boards, but is scalable for the end user. They can download unsolved Sudoku boards and load them into the chosen difficulties file. The boards are chosen at random from the pool in each difficulty level.
 
-## How to compile and run the program
+## How to run the program
 
 How to compile (if applicable) and run the project.
 
@@ -22,7 +23,7 @@ cd ./project
 python setup.py
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Clone the repository and open the folder in your desired Java IDE. Ensure that you have your desired JDK loaded in the project. Select the Main.Java file and press the "Play" button in the IDE.
 
 ## UI Design
 
@@ -30,14 +31,29 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/Sudoku Images/Main GUI.png)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/Sudoku Images/New Game.png)  
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/Sudoku Images/Failed Game.png)  
 Fig 3. Feedback when an error occurs.
+
+![screenshot](images/Sudoku Images/Show Solution After Fail.png)  
+Fig 4. Feedback when an error occurs.
+
+![screenshot](images/Sudoku Images/Show Solution No Try.png)  
+Fig 5. Feedback when an error occurs.
+
+![screenshot](images/Sudoku Images/Successful Game.png)  
+Fig 6. Feedback when an error occurs.
+
+![screenshot](images/Sudoku Images/Enter Highscore.png)  
+Fig 7. Feedback when an error occurs.
+
+![screenshot](images/Sudoku Images/Updated Highscores.png)  
+Fig 8. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 

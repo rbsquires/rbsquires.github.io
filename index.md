@@ -7,14 +7,14 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:rbsquires@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Sudoku (Group Project) | CSCI 325](project1)
+### [HTML Parser | CSCI 315](project1)
 
-![Sudoku](images/Sudoku Images/Main GUI.png)
+![HTMLParser](images/HTML Parser Images/Make Run.png)
 
 ---
-### [Project 2 Title | CSCI 315](project2)
+### [Sudoku (Group Project) | CSCI 325](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Sudoku](images/Sudoku Images/Main GUI.png)
 
 ---
 ### [Project 3 Title | CSCI 325](project3)

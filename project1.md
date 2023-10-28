@@ -1,29 +1,28 @@
 [Back to Portfolio](./)
 
-Sudoku Group Project
+HTML Parser
 ===============
 
--   **Class: Object Oriented Programming (CSCI 325)** 
--   **Group: Mack W., Matt W., Robert S.** 
+-   **Class: Data Structure Analysis** 
 -   **Grade: A** 
--   **Language(s): Java** 
--   **Source Code Repository:** [CSCI 325 Sudoku](https://github.com/rbsquires/CSCI-325-Sudoku)  
+-   **Language(s):** <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/rbsquires/HTML-Parser.git)  
     (Please [email me](mailto:rbsquires@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-This Sudoku board game was built with Java. Each group was given the chance to pick what their semester project would be, given instructor's approval. We Built an arcade style version of the Sudoku game. It contains different levels of difficulty: easy, medium, and hard. If the player successfully solves the Sudoku puzzle in a quick enough time they will be given the chance to enter their initials into the highscores leaderboard. The application was built with a small amount of boards, but is scalable for the end user. They can download unsolved Sudoku boards and load them into the chosen difficulties file. The boards are chosen at random from the pool in each difficulty level.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## How to run the program
+## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+How to compile and run the project.
 
 ```bash
 cd ./project
-python setup.py
+make run
 ```
 
-Clone the repository and open the folder in your desired Java IDE. Ensure that you have your desired JDK loaded in the project. Select the Main.Java file and press the "Play" button in the IDE.
+The included make file allows the user to clone the repository, then change to the projects location and execute the single command to compile and run the program.
 
 ## UI Design
 
@@ -31,29 +30,14 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/Sudoku Images/Main GUI.png)  
+![screenshot](images/HTML Parser Images/Make Run.png)  
 Fig 1. The launch screen
 
-![screenshot](images/Sudoku Images/New Game.png)  
+![screenshot](images/dummy_thumbnail.jpg)  
 Fig 2. Example output after input is processed.
 
-![screenshot](images/Sudoku Images/Failed Game.png)  
+![screenshot](images/dummy_thumbnail.jpg)  
 Fig 3. Feedback when an error occurs.
-
-![screenshot](images/Sudoku Images/Show Solution After Fail.png)  
-Fig 4. Feedback when an error occurs.
-
-![screenshot](images/Sudoku Images/Show Solution No Try.png)  
-Fig 5. Feedback when an error occurs.
-
-![screenshot](images/Sudoku Images/Successful Game.png)  
-Fig 6. Feedback when an error occurs.
-
-![screenshot](images/Sudoku Images/Enter Highscore.png)  
-Fig 7. Feedback when an error occurs.
-
-![screenshot](images/Sudoku Images/Updated Highscores.png)  
-Fig 8. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
