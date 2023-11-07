@@ -1,6 +1,7 @@
 Portfolio
 =========
 
+---
 Languages
 --------------------
 
@@ -16,6 +17,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <br/><br/>
 
+---
 Tools
 --------------------
           
@@ -30,6 +32,7 @@ Tools
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <br/><br/>
 
+---
 Programming Projects
 --------------------
 
