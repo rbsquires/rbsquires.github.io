@@ -15,12 +15,12 @@ github_username: rbsquires # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 <details>
-	<summary><h3>My Coding Journey</h3></summary>
-  I started my coding journey as a Computer Science student with a passion to learn everything I could about making programs that would be useful.
-  Since I use an iPhone, I wanted to teach myself iOS development with a dream to build my own app.
-  Having a background as a mechanic, I chose to make an OBD-II application to bring together my love of vehicles and the technologies I have been learning throughout my education in Computer Science.
-  I enjoy programming in C++ and Java, but have also grown to enjoy using Swift and SwiftUI for programming specifically for Apple products.
-  I hope to continue growing my developer skill as a whole, as well as become more proficient in iOS,iPadOS, and macOS development.
+<summary><h3>My Coding Journey</h3></summary>
+I started my coding journey as a Computer Science student with a passion to learn everything I could about making programs that would be useful.
+Since I use an iPhone, I wanted to teach myself iOS development with a dream to build my own app.
+Having a background as a mechanic, I chose to make an OBD-II application to bring together my love of vehicles and the technologies I have been learning throughout my education in Computer Science.
+I enjoy programming in C++ and Java, but have also grown to enjoy using Swift and SwiftUI for programming specifically for Apple products.
+I hope to continue growing my developer skill as a whole, as well as become more proficient in iOS,iPadOS, and macOS development.
 </details>
 
 # Build setting
