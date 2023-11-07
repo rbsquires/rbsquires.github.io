@@ -2,7 +2,7 @@ Portfolio
 =========
 
 ---
-Languages
+<h3>Languages</h3>
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -17,7 +17,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg
 <br/><br/>
 
 ---
-Tools
+<h3>Tools</h3>
 
           
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
@@ -32,7 +32,7 @@ Tools
 <br/><br/>
 
 ---
-Programming Projects
+<h3>Programming Projects</h3>
 
 
 *For access to my private project repositories, please [email me](mailto:rbsquires@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
