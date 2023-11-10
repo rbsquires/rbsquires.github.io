@@ -45,6 +45,7 @@ Coder. Gear Head. Nomad spirit.
 <img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<br/>
 
 ## Tools
    
@@ -64,6 +65,7 @@ Coder. Gear Head. Nomad spirit.
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<br/>
 
 ---
 ## Programming Projects
