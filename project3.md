@@ -3,9 +3,10 @@
 Project 3 Title
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class: User-Interface Programming**
+-   **Group: Chris K., Mack W., Robert S.** 
+-   **Grade: A** 
+-   **Language(s): Ruby and Ruby on Rails** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
@@ -30,14 +31,32 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/5k Charity Images/Home Page.png)  
+Fig 1. Homepage
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/5k Charity Images/Empty Sign Up Page.png)  
+Fig 2. Sign Up Page.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/5k Charity Images/Filled Sign Up Page.png)  
+Fig 3. Ready to Sign Up Page.
+
+![screenshot](images/5k Charity Images/Sign Up Errors.png)  
+Fig 4. Sign Up Page Errors.
+
+![screenshot](images/5k Charity Images/Login Page.png)  
+Fig 5. Log In Page.
+
+![screenshot](images/5k Charity Images/Top Logged In Page.png)  
+Fig 6. Top of Profile Page.
+
+![screenshot](images/5k Charity Images/Bottom Logged In Page.png)  
+Fig 7. Bottom of Profile Page.
+
+![screenshot](images/5k Charity Images/Admin Profile Page.png)  
+Fig 8. Admin Profile Page.
+
+![screenshot](images/5k Charity Images/Removing Admin.png)  
+Fig 9. Add/Remove Admin Privileges.
 
 ## 3. Additional Considerations
 

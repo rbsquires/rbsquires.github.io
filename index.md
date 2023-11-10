@@ -39,7 +39,6 @@ Coder. Gear Head. Nomad spirit.
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Perl" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <br/>
 <p>&nbsp;</p>
 
@@ -51,6 +50,7 @@ Coder. Gear Head. Nomad spirit.
 <img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="Oracle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <br/>
 <p>&nbsp;</p>
 
@@ -100,14 +100,14 @@ Coder. Gear Head. Nomad spirit.
 ![Sudoku](images/Sudoku Images/Main GUI.png)
 
 ---
-### [Project 3 Title | CSCI 325](project3)
+### [5k Charity Run Website (Group Project) | CSCI 334](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/5k Charity Images/Home Page.png)
 
 ---
-### [5k Charity Run Website | CSCI 334](project4)
+### [Scheduling Algorithms (Group Project) | CSCI 431](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/Scheduling Algorithms/Schedule PRI-RR Results.png)
 
 ---
 
