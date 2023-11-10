@@ -107,7 +107,7 @@ Coder. Gear Head. Nomad spirit.
 ---
 ### [Scheduling Algorithms (Group Project) | CSCI 431](project4)
 
-![Project 4 Thumbnail Name](images/Scheduling Algorithms/Schedule PRI-RR Results.png)
+![Project 4 Thumbnail Name](images/Scheduling Algorithms Images/Schedule PRI-RR Results.png)
 
 ---
 

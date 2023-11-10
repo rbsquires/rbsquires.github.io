@@ -37,7 +37,7 @@ Fig 1. Preferences in Visual Studio.
 ![screenshot](images/Scheduling Algorithms Images/Arguments.png)  
 Fig 2. Setting Arguments in Visual Studio.
 
-![screenshot](images/Scheduling Algorithms Images/Schedule PRI-RR.png)  
+![screenshot](images/Scheduling Algorithms Images/Schedule PRI-RR Results.png)  
 Fig 3. The Sorting Algorithm Results.
 
 ## 3. Additional Considerations
