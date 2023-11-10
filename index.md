@@ -1,6 +1,5 @@
 Portfolio
 =========
----
 
 ## About Me
 
@@ -21,7 +20,7 @@ Coder. Gear Head. Nomad spirit.
 	<p>
 		&emsp;&emsp;I started my coding journey as a Computer Science student with a passion to learn everything I could about making programs that would be useful. Since I use an iPhone, I wanted to teach myself iOS development with a dream to build my own app. Having a background as a mechanic, I chose to make an OBD-II application to bring together my love of vehicles and the technologies I have been learning throughout my education in Computer Science. I enjoy programming in C++ and Java, but have also grown to enjoy using Swift and SwiftUI for programming specifically for Apple devices. I hope to continue growing my developer skill as a whole, as well as become more proficient in iOS, iPadOS, and macOS development.
 	</p>
-</details>
+</details><br/>
 
 ## Languages and Frameworks
 
@@ -45,10 +44,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" />
 <img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
-<br/><br/>
+<br/><br/><br/>
 
 ## Tools
-     
+   
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="left" alt="Apple" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
@@ -63,11 +62,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<br/><br/>
+<br/><br/><br/>
 
 
 ## Programming Projects
-
 
 *For access to my private project repositories, please [email me](mailto:rbsquires@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
