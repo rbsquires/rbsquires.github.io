@@ -46,7 +46,6 @@ Coder. Gear Head. Nomad spirit.
 <p>&nbsp;</p>
 <br/>
 <p>&nbsp;</p>
-<br/>
 
 ## Tools
    
@@ -67,7 +66,6 @@ Coder. Gear Head. Nomad spirit.
 <p>&nbsp;</p>
 <br/>
 <p>&nbsp;</p>
-<br/>
 
 ---
 ## Programming Projects
