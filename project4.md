@@ -3,9 +3,10 @@
 Project 4 Title
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class: User-Interface Programming**
+-   **Group: Chris K., Mack W., Robert S.** 
+-   **Grade: A** 
+-   **Language(s): Ruby and Ruby on Rails** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 

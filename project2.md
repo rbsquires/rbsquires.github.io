@@ -12,18 +12,11 @@ Sudoku Group Project
 
 ## Project description
 
-This Sudoku board game was built with Java. Each group was given the chance to pick what their semester project would be, given instructor's approval. We Built an arcade style version of the Sudoku game. It contains different levels of difficulty: easy, medium, and hard. If the player successfully solves the Sudoku puzzle in a quick enough time they will be given the chance to enter their initials into the highscores leaderboard. The application was built with a small amount of boards, but is scalable for the end user. They can download unsolved Sudoku boards and load them into the chosen difficulties file. The boards are chosen at random from the pool in each difficulty level.
+This arcade style Sudoku game was built using Java. It contains three levels of difficulty: easy, medium, and hard. The player is tasked with completing puzzles within a certain time. If they succeed they will be prompted to enter their initials into the highscores leaderboard. More puzzles can be added to the desired "difficulties" file, inside the Sudoku Gameboards folder.
 
 ## How to run the program
 
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./project
-python setup.py
-```
-
-Clone the repository and open the folder in your desired Java IDE. Ensure that you have your desired JDK loaded in the project. Select the Main.Java file and press the "Play" button in the IDE.
+Clone the repository and open the folder in your desired Java IDE. Ensure that you have your desired JDK loaded in the project. Select the Main.Java file and press the "Run" button in the IDE.
 
 ## UI Design
 

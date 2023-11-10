@@ -1,8 +1,23 @@
 Portfolio
 =========
 
+
+<h2>About Me</h2>
+Coder. Gear Head. Gypsy Soul.<br/>
+
+<p>
+    Meticulous, dedicated college graduate with experience in Computer Science and Web Development
+    technologies. Pursuing a
+    position to build upon my education and start a career as a Software Engineer specializing in development with
+    languages such as Swift, C++ or Java.
+</p><br/>
+
+<details><summary>My Coding Journey</summary>
+  &emsp;&emsp; I started my coding journey as a Computer Science student with a passion to learn everything I could about making programs that would be useful. Since I use an iPhone, I wanted to teach myself iOS development with a dream to build my own app. Having a background as a mechanic, I chose to make an OBD-II application to bring together my love of vehicles and the technologies I have been learning throughout my education in Computer Science. I enjoy programming in C++ and Java, but have also grown to enjoy using Swift and SwiftUI for programming specifically for Apple devices. I hope to continue growing my developer skill as a whole, as well as become more proficient in iOS, iPadOS, and macOS development.
+  </details><br/>
+
 ---
-<h3>Languages</h3>
+<h2>Languages and Frameworks</h2>
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -13,11 +28,29 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+<script>
+  function isMobileDevice() {
+    return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i
+      .test(navigator.userAgent);
+	}
+
+  if (isMobileDevice()) {
+    <br/>;
+  }
+</script>
+
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" />
 <br/><br/>
 
 ---
-<h3>Tools</h3>
+<h2>Tools</h2>
 
           
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
@@ -28,11 +61,23 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+
+<script>
+  function isMobileDevice() {
+    return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i
+      .test(navigator.userAgent);
+	}
+
+  if (isMobileDevice()) {
+    <br/>;
+  }
+</script>
+
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <br/><br/>
 
 ---
-<h3>Programming Projects</h3>
+<h2>Programming Projects</h2>
 
 
 *For access to my private project repositories, please [email me](mailto:rbsquires@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
@@ -53,7 +98,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project4)
+### [5k Charity Run Website | CSCI 334](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
