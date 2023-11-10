@@ -44,7 +44,6 @@ Coder. Gear Head. Nomad spirit.
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
 <p>&nbsp;</p>
-<br/>
 <p>&nbsp;</p>
 
 ## Tools
@@ -64,7 +63,6 @@ Coder. Gear Head. Nomad spirit.
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <p>&nbsp;</p>
-<br/>
 <p>&nbsp;</p>
 
 ---
