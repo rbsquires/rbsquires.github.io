@@ -22,8 +22,8 @@ In Windows cmd:
 cd \project location
 SchedulingAlgorithm.exe "desired text file" "desire algorithm"
 ```
-[Microsoft Instructions](https://learn.microsoft.com/en-us/cpp/build/vscpp-step-2-build?view=msvc-170)
-
+For more information, see the
+<a href="https://learn.microsoft.com/en-us/cpp/build/vscpp-step-2-build?view=msvc-170" target="_blank">Microsoft Instructions</a>
 
 ## UI Design
 
@@ -43,7 +43,5 @@ Fig 3. The Sorting Algorithm Results.
 ## 3. Additional Considerations
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)

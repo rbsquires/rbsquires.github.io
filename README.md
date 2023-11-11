@@ -5,8 +5,6 @@ Senior Portfolio Template for CSCI 496
 
 Use this template to create your senior portfolio using GitHub Pages!
 
-![Demo Animation](images/demo.gif)
-
 ## Installation
 
 1.  Log in to GitHub (create a [GitHub profile](https://github.com/join) if you don't already have one).

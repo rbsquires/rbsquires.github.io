@@ -18,9 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ```bash
 To get started with the app, clone the repo:
-
 ```
-
 
 Then install the needed gems:
 
@@ -62,8 +60,9 @@ $ heroku run rails db:migrate
 
 
 
-For more information, see a sample tutorial
-[*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book)
+For more information, see the sample tutorial
+<a href="https://www.railstutorial.org/book" target="_blank">*Ruby on Rails Tutorial* book</a>
+
 
 ## UI Design
 
@@ -101,7 +100,5 @@ Fig 9. Add/Remove Admin Privileges.
 ## 3. Additional Considerations
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
