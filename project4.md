@@ -7,23 +7,23 @@ Project 4 Title
 -   **Group: Christian H., Robert S.** 
 -   **Grade: A** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/rbsquires/SortingAlgorithms.git)  
+    (Please [email me](mailto:rbsquires@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## How to compile and run the program
+\* This program requires the use of Visual Studio
 
-How to compile (if applicable) and run the project.
-
+In Windows cmd:
 ```bash
-cd ./project
-python setup.py
+cd \project location
+SchedulingAlgorithm.exe "desired text file" "desire algorithm"
 ```
+[Microsoft Instructions](https://learn.microsoft.com/en-us/cpp/build/vscpp-step-2-build?view=msvc-170)
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 

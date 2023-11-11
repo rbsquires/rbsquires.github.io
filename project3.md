@@ -7,8 +7,8 @@ Project 3 Title
 -   **Group: Chris K., Mack W., Robert S.** 
 -   **Grade: A** 
 -   **Language(s): Ruby and Ruby on Rails** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/rbsquires/BC_race_app.git)  
+    (Please [email me](mailto:rbsquires@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
@@ -16,14 +16,54 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
-
 ```bash
-cd ./project
-python setup.py
+To get started with the app, clone the repo:
+
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+
+Then install the needed gems:
+
+```
+$ gem install bundler -v 2.3.14
+$ bundle _2.3.14_ config set --local without 'production'
+$ bundle _2.3.14_ install
+```
+
+Next, migrate to your the database to check any changes you have:
+
+```
+$ rails db:migrate
+```
+
+To seed your database for admin and other user testing:
+
+```
+$ rails db:migrate
+```
+
+Next, you will point your repository to your Heroku application:
+
+```
+$ heroku git:remote -a YOUR HEROKU APP NAME
+```
+
+Then, you will push everything to your Heroku production site:
+
+```
+$ git push heroku
+```
+
+Finally, you will setup the production database on Heroku:
+
+```
+$ heroku run rails db:migrate
+```
+
+
+
+For more information, see a sample tutorial
+[*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book)
 
 ## UI Design
 
@@ -52,7 +92,7 @@ Fig 6. Top of Profile Page.
 ![screenshot](images/5k Charity Images/Bottom Logged In Page.png)  
 Fig 7. Bottom of Profile Page.
 
-![screenshot](images/5k Charity Images/Admin Profile Page.png)  
+![screenshot](images/5k Charity Images/Profile Page Admin.png)  
 Fig 8. Admin Profile Page.
 
 ![screenshot](images/5k Charity Images/Removing Admin.png)  
