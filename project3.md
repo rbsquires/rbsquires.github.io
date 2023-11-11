@@ -61,7 +61,7 @@ $ heroku run rails db:migrate
 
 
 For more information, see the sample tutorial
-<a href="https://www.railstutorial.org/book" target="_blank">*Ruby on Rails Tutorial* book</a>
+<a href="https://www.railstutorial.org/book" target="_blank">Ruby on Rails Tutorial</a>
 
 
 ## UI Design
