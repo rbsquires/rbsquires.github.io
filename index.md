@@ -115,30 +115,31 @@ Coder. Gear Head. Nomad spirit.
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### <a href="pdf/CSCI 301 - Ethics Paper - Robert Squires.pdf" target="_blank">Ethics of Copyright Law & Plagiarism</a>
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 301 - Survey of Scripting Languages**  
+-   **Grade: A**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### <a href="pdf/CSCI 315 - Ethics Paper - Robert Squires.pdf" target="_blank">Ethics of Developer Testing</a>
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 315 - Data Structure Analysis** 
+-   **Grade: A**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### <a href="pdf/CSCI 325 - Ethics Paper - Robert Squires.pdf" target="_blank">Ethics of Data Collection</a>
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 325 - Object Oriented Programming** 
+-   **Grade: A**
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### <a href="pdf/CSCI 352 Forensics Group Project.pdf" target="_blank">Computer Forensics Presentation</a>
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 352 - Cyber Defense** 
+- **Group: Jaye E., Robert S.**
+- **Grade: A**
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)

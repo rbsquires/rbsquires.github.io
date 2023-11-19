@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 4 Title
+Scheduling Algorithms Group Project
 ===============
 
 -   **Class: Operating Systems**

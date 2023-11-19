@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 3 Title
+5k Charity Run Website Group Project
 ===============
 
 -   **Class: User-Interface Programming**
