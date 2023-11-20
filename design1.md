@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Children's Book Illustration
+Childrens Book Illustration
 ===============
 
 -   **Class: Visual Communications** 
@@ -10,7 +10,7 @@ Children's Book Illustration
 
 ## Project description
 
-This assignment was to create a childrens book illustration. The illustration was to contain a creature and an environment,bright colors and a type script for our design.
+This assignment was to create a childrens book illustration. The illustration was to contain a creature and an environment, bright colors and a type script for our design.
 
 ## Design
 

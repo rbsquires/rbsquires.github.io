@@ -142,17 +142,17 @@ Ethics Papers
 Presentations
 -------------
 
+### <a href="https://youtu.be/TI5XosF6UNU" target="_blank">Sudoku Presentation</a>
+
+- **Class: CSCI 325 - Object Oriented Programming**
+- **Group: Mack W., Matt W., Robert S.**
+- **Grade: A**
+
 ### <a href="pdf/CSCI 352 Forensics Group Project.pdf" target="_blank">Computer Forensics Presentation</a>
 
 - **Class: CSCI 352 - Cyber Defense** 
 - **Group: Jaye E., Robert S.**
 - **Grade: A**
-
-
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
-
-- **Class:** 
-- **Grade:**
 
 ---
 

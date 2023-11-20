@@ -12,15 +12,11 @@
 
 ## Project description
 
-This charity run website was built with Ruby and Ruby on Rails. The owner of the charity wanted a website developed so that participants could sign up for the race, either individually or as part of a team. They wanted all users to be greeted with a steamlined website, that was easy to navigate and displayed all pertinant information to registered users. This included race events, locations and times. The owner also wanted certain individuals to be granted admin privileges for management purposes.
+This charity run website was built with Ruby and Ruby on Rails. The owner of the charity wanted a website developed so that participants could sign up for the race, either individually or as part of a team. The client wanted all users to be greeted with a streamlined website that was easy to navigate and displayed all pertinant information to registered users. This included race events, locations and times. The owner also wanted certain individuals to be granted admin privileges for management purposes.
 
 ## How to compile and run the program
 
-```bash
-To get started with the app, clone the repo:
-```
-
-Then install the needed gems:
+To get started, clone the repo and install the needed gems:
 
 ```
 $ gem install bundler -v 2.3.14
@@ -65,8 +61,6 @@ For more information, see the sample tutorial
 
 
 ## UI Design
-
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
 When a user loads the website, they are greeted by the Home page (see Fig 1). If the user is unregistered, they can click the Sign Up link in the description or at the top of the page. Alternatively, if already a registered user they can click the Login link and enter their credentials (see Fig 2).
 

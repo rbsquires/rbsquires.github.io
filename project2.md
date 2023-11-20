@@ -16,14 +16,12 @@ This arcade style Sudoku game was built using Java. It contains three levels of 
 
 ## How to run the program
 
-```bash
+
 To get started, clone the repo:
-```
+
 Then open the folder in your desired Java IDE. Ensure that you have your desired JDK loaded in the project. Select the Main.Java file and press the "Run" button in the IDE.
 
 ## UI Design
-
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
 Once the user has launched the program, they will be greeted by the Main GUI (see Fig 1). Click your desired difficulty, then gambeboard will be populated and the timer will start (see Fig 2). Click on or tab to each empty box to enter your solution.
 
@@ -61,6 +59,6 @@ Fig 8. Updated Sudoku high scores.
 
 ## 3. Additional Considerations
 
-More puzzles can be added to the desired "difficulty's" file, inside the Sudoku Gameboards folder. Launch the game after adding more puzzles into the desired diffulty and they will be added into it's selection pool.
+More puzzles can be added to the desired "difficulties" file, inside the Sudoku Gameboards folder. Launch the game after adding more puzzles into the desired diffulty and they will be added into it's selection pool.
 
 [Back to Portfolio](./)

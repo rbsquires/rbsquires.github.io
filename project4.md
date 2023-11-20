@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Scheduling Algorithms
+Scheduling Algorithm
 ===============
 
 -   **Class: Operating Systems**
@@ -17,10 +17,8 @@ This program is a scheduling algrothims for a CPU built with C++. The program co
 ## How to compile and run the program
 #### \* This program requires the use of Visual Studio *
 
-
-```bash
 To get started, clone the repo:
-```
+
 In Windows cmd:
 ```bash
 cd /project location
@@ -30,6 +28,7 @@ For more information, reference the
 <a href="https://learn.microsoft.com/en-us/cpp/build/vscpp-step-2-build?view=msvc-170" target="_blank">Microsoft Instructions</a>
 
 ## UI Design
+
 There are two ways to run this program, both requiring Visual Studio to be installed:
 
 The user selected task file and scheduling algorithm are input as arguements in the Windows cmd terminal and the algorithm's output is displayed in the terminal (see Fig 1).
@@ -37,7 +36,7 @@ The user selected task file and scheduling algorithm are input as arguements in 
 ![screenshot](images/Scheduling Algorithms Images/Schedule PRI-RR Results.png)  
 Fig 1. The Sorting Algorithm Results.
 
-Alternatively, the user can run the program in the Visual Studio IDE. Load the project into Visual Studio. Right-click on the project folder inside the Solution Explorer pane on the right, and click Properties (see Fig 1). Then inside the properties window, click on Debugging. Enter the "desired task file" "desired algorithm" next to Command Arguments and click Ok (see Fig 2). Then click "Local Windows Debugger" button at the top of the IDE.
+Alternatively, the user can run the program in the Visual Studio IDE. Load the project into Visual Studio. Right-click on the project folder inside the Solution Explorer pane on the right, and click Properties (see Fig 2). Then inside the properties window, click on Debugging. Enter the "desired task file" "desired algorithm" next to Command Arguments and click Ok (see Fig 3). Then click "Local Windows Debugger" button at the top of the IDE.
 
 ![screenshot](images/Scheduling Algorithms Images/Preferences.png)  
 Fig 2. Preferences in Visual Studio.

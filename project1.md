@@ -15,9 +15,8 @@ This HTML parser was built using C++. The program is used to check that your HTM
 
 ## How to compile and run the program
 
-```bash
+
 To get started, clone the repo:
-```
 
 ```bash
 cd /project location
