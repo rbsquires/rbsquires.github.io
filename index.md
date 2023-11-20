@@ -111,6 +111,8 @@ Coder. Gear Head. Nomad spirit.
 
 ## Design Projects
 
+---
+
 
 ### [Childrens Book Illustration | ART 216](design1)
 

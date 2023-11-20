@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Scheduling Algorithm
+Scheduling Algorithms
 ===============
 
 -   **Class: Operating Systems**
