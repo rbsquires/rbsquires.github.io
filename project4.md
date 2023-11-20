@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Scheduling Algorithms Group Project
+Scheduling Algorithms
 ===============
 
 -   **Class: Operating Systems**
@@ -12,36 +12,43 @@ Scheduling Algorithms Group Project
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This program is a scheduling algrothims for a CPU built with C++. The program contains different scheduling algorithms used for determing the processing of tasks by the CPU, including: First-come first-served (FCFS), Shortest-job-first (SJF), Priority scheduling (PRI), Round-robin (RR) scheduling, Priority with round-robin (PRI-RR). The tasks contain an ID, priority and burst time. The selected task list and scheduling algorithm are run together to show the CPU operations for the given scheduling type.
 
 ## How to compile and run the program
-\* This program requires the use of Visual Studio
+#### \* This program requires the use of Visual Studio *
 
+
+```bash
+To get started, clone the repo:
+```
 In Windows cmd:
 ```bash
-cd \project location
+cd /project location
 SchedulingAlgorithm.exe "desired text file" "desire algorithm"
 ```
-For more information, see the
+For more information, reference the
 <a href="https://learn.microsoft.com/en-us/cpp/build/vscpp-step-2-build?view=msvc-170" target="_blank">Microsoft Instructions</a>
 
 ## UI Design
+There are two ways to run this program, both requiring Visual Studio to be installed:
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
-
-![screenshot](images/Scheduling Algorithms Images/Preferences.png)  
-Fig 1. Preferences in Visual Studio.
-
-![screenshot](images/Scheduling Algorithms Images/Arguments.png)  
-Fig 2. Setting Arguments in Visual Studio.
+The user selected task file and scheduling algorithm are input as arguements in the Windows cmd terminal and the algorithm's output is displayed in the terminal (see Fig 1).
 
 ![screenshot](images/Scheduling Algorithms Images/Schedule PRI-RR Results.png)  
-Fig 3. The Sorting Algorithm Results.
+Fig 1. The Sorting Algorithm Results.
+
+Alternatively, the user can run the program in the Visual Studio IDE. Load the project into Visual Studio. Right-click on the project folder inside the Solution Explorer pane on the right, and click Properties (see Fig 1). Then inside the properties window, click on Debugging. Enter the "desired task file" "desired algorithm" next to Command Arguments and click Ok (see Fig 2). Then click "Local Windows Debugger" button at the top of the IDE.
+
+![screenshot](images/Scheduling Algorithms Images/Preferences.png)  
+Fig 2. Preferences in Visual Studio.
+
+![screenshot](images/Scheduling Algorithms Images/Arguments.png)  
+Fig 3. Setting Arguments in Visual Studio.
+
+
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Knowledge of running Visual Studio C++ executables is recommended for this project. If the user can run the program from the command line, it is much quicker to run the different task list/algorithm combinations. Using the Visual Studio IDE is much more time consuming, because each set of arguments needs to be entered into the properties window between swapping task list/algorithm combinations. 
 
 [Back to Portfolio](./)

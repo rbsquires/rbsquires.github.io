@@ -5,10 +5,7 @@ Portfolio
 
 Coder. Gear Head. Nomad spirit.
 <p>
-    Meticulous, dedicated college graduate with experience in Computer Science and Web Development
-    technologies. Pursuing a
-    position to build upon my education and start a career as a Software Engineer specializing in development with
-    languages such as Swift, C++ or Java.
+	I’m a software developer focused on expanding my toolbox one language at a time and mastering my craft. The projects in this portfolio are some of my favorite works while completing my B.S. in Computer Science, Minor in Web Development. I'm a meticulous, dedicated professional pursuing a career as a software engineer with languages such as Swift, C++ and Java.
 </p>
 
 <details>
@@ -18,7 +15,7 @@ Coder. Gear Head. Nomad spirit.
 		</b>
 	</summary>
 	<p>
-		&emsp;&emsp;I started my coding journey as a Computer Science student with a passion to learn everything I could about making programs that would be useful. Since I use an iPhone, I wanted to teach myself iOS development with a dream to build my own app. Having a background as a mechanic, I chose to make an OBD-II application to bring together my love of vehicles and the technologies I have been learning throughout my education in Computer Science. I enjoy programming in C++ and Java, but have also grown to enjoy using Swift and SwiftUI for programming specifically for Apple devices. I hope to continue growing my developer skill as a whole, as well as become more proficient in iOS, iPadOS, and macOS development.
+		&emsp;&emsp;I started my coding journey as a Computer Science student with a passion to learn everything I could about making programs that would be useful. Since I use an iPhone, I wanted to teach myself iOS development with a dream to build my own app. Having a background as a mechanic, I chose to make an OBD-II application to bring together my love of vehicles and the technologies I have been learning throughout my education. I enjoy programming in C++ and Java, but have also grown to enjoy using Swift and SwiftUI specifically for Apple devices. I hope to continue growing my developer skill as a whole, as well as become more proficient in iOS, iPadOS, and macOS development. My next side project dream is to build my OBD-II logic in Rust, and integrate that into native GUIs for Apple and Android devices, using Swift/SwiftUI and Kotlin.
 	</p>
 </details><br/>
 
@@ -111,6 +108,16 @@ Coder. Gear Head. Nomad spirit.
 ![Project 4 Thumbnail Name](images/Scheduling Algorithms Images/Schedule PRI-RR Results.png)
 
 ---
+
+## Design Projects
+
+
+### [Childrens Book Illustration | ART 216](design1)
+
+![ChildrensBook](images/Design/AdventuresOfBandit.png)
+
+---
+
 
 Ethics Papers
 -------------

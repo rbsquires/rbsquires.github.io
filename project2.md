@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Sudoku Group Project
+Sudoku Game
 ===============
 
 -   **Class: Object Oriented Programming (CSCI 325)** 
@@ -12,17 +12,20 @@ Sudoku Group Project
 
 ## Project description
 
-This arcade style Sudoku game was built using Java. It contains three levels of difficulty: easy, medium, and hard. The player is tasked with completing puzzles within a certain time. If they succeed they will be prompted to enter their initials into the highscores leaderboard. More puzzles can be added to the desired "difficulties" file, inside the Sudoku Gameboards folder.
+This arcade style Sudoku game was built using Java. It contains three levels of difficulty: easy, medium, and hard. The player is tasked with completing puzzles within a certain time. If they succeed they will be prompted to enter their initials into the highscores leaderboard.
 
 ## How to run the program
 
-Clone the repository and open the folder in your desired Java IDE. Ensure that you have your desired JDK loaded in the project. Select the Main.Java file and press the "Run" button in the IDE.
+```bash
+To get started, clone the repo:
+```
+Then open the folder in your desired Java IDE. Ensure that you have your desired JDK loaded in the project. Select the Main.Java file and press the "Run" button in the IDE.
 
 ## UI Design
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+Once the user has launched the program, they will be greeted by the Main GUI (see Fig 1). Click your desired difficulty, then gambeboard will be populated and the timer will start (see Fig 2). Click on or tab to each empty box to enter your solution.
 
 ![screenshot](images/Sudoku Images/Main GUI.png)  
 Fig 1. The launch screen
@@ -30,14 +33,20 @@ Fig 1. The launch screen
 ![screenshot](images/Sudoku Images/New Game.png)  
 Fig 2. Difficulty selected.
 
+Once you have finished your attempt, you can click the Check Solution button. If you have failed to solve the gameboard, you will be notified above the board. Each solution box that was incorrect will be highlighted for the player (see Fig 3). The player can then check the correct solution by clicking the Show Solution button (see Fig 4).
+
 ![screenshot](images/Sudoku Images/Failed Game.png)  
 Fig 3. Failed to solve Sudoku board.
 
 ![screenshot](images/Sudoku Images/Show Solution After Fail.png)  
 Fig 4. Showing solution to the current board.
 
+If the player clicks the Show Solution button without entering any solutions into the gameboard, it will display the solved gameboard without any highlights (see Fig 5).
+
 ![screenshot](images/Sudoku Images/Show Solution No Try.png)  
 Fig 5. Showing solution without submitting attempt.
+
+If the player has made their entries and successfully solved the game, they will shown a banner above the gameboard (see Fig 6). If their successful attempt is fast enough, they will see the New High Score pane show in the bottome left of the GUI. The player can enter their initials and click the Enter button (See Fig 7).
 
 ![screenshot](images/Sudoku Images/Successful Game.png)  
 Fig 6. Solved Sudoku board.
@@ -45,11 +54,13 @@ Fig 6. Solved Sudoku board.
 ![screenshot](images/Sudoku Images/Enter Highscore.png)  
 Fig 7. New high score entry panel.
 
+Once the new high score has been recorded, it will be displayed in the leaderboard for that particular difficulty (see Fig 8).
+
 ![screenshot](images/Sudoku Images/Updated Highscores.png)  
 Fig 8. Updated Sudoku high scores.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+More puzzles can be added to the desired "difficulty's" file, inside the Sudoku Gameboards folder. Launch the game after adding more puzzles into the desired diffulty and they will be added into it's selection pool.
 
 [Back to Portfolio](./)
