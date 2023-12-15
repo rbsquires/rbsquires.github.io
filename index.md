@@ -88,9 +88,19 @@ Coder. Gear Head. Nomad spirit.
 *For access to my private project repositories, please [email me](mailto:rbsquires@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [HTML Parser | CSCI 315](project1)
+### [OBD-II Buddy | Capstone Project](capstone)
 
-![HTMLParser](images/HTML Parser Images/Make Run.png)
+![Capstone-Project](images/OBD-II Buddy Pictures/iPad/iPad Live Data.png)
+
+---
+### [Scheduling Algorithms (Group Project) | CSCI 431](project4)
+
+![Scheduling-Algorithms](images/Scheduling Algorithms Images/Schedule PRI-RR Results.png)
+
+---
+### [5k Charity Run Website (Group Project) | CSCI 334](project3)
+
+![5k-Charity-Run](images/5k Charity Images/Home Page.png)
 
 ---
 ### [Sudoku (Group Project) | CSCI 325](project2)
@@ -98,14 +108,9 @@ Coder. Gear Head. Nomad spirit.
 ![Sudoku](images/Sudoku Images/Main GUI.png)
 
 ---
-### [5k Charity Run Website (Group Project) | CSCI 334](project3)
+### [HTML Parser | CSCI 315](project1)
 
-![Project 3 Thumbnail Name](images/5k Charity Images/Home Page.png)
-
----
-### [Scheduling Algorithms (Group Project) | CSCI 431](project4)
-
-![Project 4 Thumbnail Name](images/Scheduling Algorithms Images/Schedule PRI-RR Results.png)
+![HTMLParser](images/HTML Parser Images/Make Run.png)
 
 ---
 
@@ -113,6 +118,9 @@ Coder. Gear Head. Nomad spirit.
 
 ---
 
+### [CSU Event Posters | ART 216](finaldesign)
+
+![ChildrensBook](images/Design/Final1.png)
 
 ### [Childrens Book Illustration | ART 216](design1)
 
@@ -124,9 +132,9 @@ Coder. Gear Head. Nomad spirit.
 Ethics Papers
 -------------
 
-### <a href="pdf/CSCI 301 - Ethics Paper - Robert Squires.pdf" target="_blank">Ethics of Copyright Law & Plagiarism</a>
+### <a href="pdf/CSCI 325 - Ethics Paper - Robert Squires.pdf" target="_blank">Ethics of Data Collection</a>
 
--   **Class: CSCI 301 - Survey of Scripting Languages**  
+-   **Class: CSCI 325 - Object Oriented Programming** 
 -   **Grade: A**
 
 ### <a href="pdf/CSCI 315 - Ethics Paper - Robert Squires.pdf" target="_blank">Ethics of Developer Testing</a>
@@ -134,9 +142,9 @@ Ethics Papers
 -   **Class: CSCI 315 - Data Structure Analysis** 
 -   **Grade: A**
 
-### <a href="pdf/CSCI 325 - Ethics Paper - Robert Squires.pdf" target="_blank">Ethics of Data Collection</a>
+### <a href="pdf/CSCI 301 - Ethics Paper - Robert Squires.pdf" target="_blank">Ethics of Copyright Law & Plagiarism</a>
 
--   **Class: CSCI 325 - Object Oriented Programming** 
+-   **Class: CSCI 301 - Survey of Scripting Languages**  
 -   **Grade: A**
 
 ---
@@ -144,16 +152,16 @@ Ethics Papers
 Presentations
 -------------
 
-### <a href="https://youtu.be/TI5XosF6UNU" target="_blank">Sudoku Presentation</a>
-
-- **Class: CSCI 325 - Object Oriented Programming**
-- **Group: Mack W., Matt W., Robert S.**
-- **Grade: A**
-
 ### <a href="pdf/CSCI 352 Forensics Group Project.pdf" target="_blank">Computer Forensics Presentation</a>
 
 - **Class: CSCI 352 - Cyber Defense** 
 - **Group: Jaye E., Robert S.**
+- **Grade: A**
+
+### <a href="https://youtu.be/TI5XosF6UNU" target="_blank">Sudoku Presentation</a>
+
+- **Class: CSCI 325 - Object Oriented Programming**
+- **Group: Mack W., Matt W., Robert S.**
 - **Grade: A**
 
 ---
