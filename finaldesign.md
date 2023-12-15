@@ -10,7 +10,7 @@ CSU Event Poster Illustrations
 
 ## Project description
 
-This assignment was to create three different posters to advertise an event at CSU. The illustrations were to contain illustrations designed in our style and a type script for each design.
+This assignment was to create three different posters to advertise an event at CSU. The illustrations were to be designed in our "style" and accompanied by type scripts for the headline, subheadline and body. We conducted type and color studies for our final poster. The entire process book is available upon request.
 
 ## Design
 
