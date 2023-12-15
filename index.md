@@ -122,6 +122,8 @@ Coder. Gear Head. Nomad spirit.
 
 ![ChildrensBook](images/Design/Final1.png)
 
+---
+
 ### [Childrens Book Illustration | ART 216](design1)
 
 ![ChildrensBook](images/Design/AdventuresOfBandit.png)
