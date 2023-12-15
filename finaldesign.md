@@ -24,7 +24,7 @@ The second illustration is to capture the full experience of overlanding to a re
 
 ![screenshot](images/Design/Final2.png)
 
-The third illustration is to capture the different activities the club organizes: offroading, hiking and hunting. I wanted to create an illustration to serve as a logo for the club, promoting their activities for those who came across the poster's location.
+The third illustration is to capture the different activities the club organizes: offroading, hiking and hunting. I wanted to create an illustration to serve as a logo for the club, promoting their activities to those who come across the poster's location.
 
 ![screenshot](images/Design/Final3.png)
 
