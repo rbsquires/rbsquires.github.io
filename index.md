@@ -118,6 +118,12 @@ Coder. Gear Head. Nomad spirit.
 
 ---
 
+### [Horse Riding Lessons Website | CSCI 495](webdesign)
+
+![WebDesign](images/RRL Images/RRL Full.png)
+
+---
+
 ### [CSU Event Posters | ART 216](finaldesign)
 
 ![ChildrensBook](images/Design/Final1.png)

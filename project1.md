@@ -30,7 +30,7 @@ The included make file allows the user to simply change to the projects location
 This is a simple CLI program. Once the user changes to the project's location in the terminal, they can run the program and see the results (see Fig 1).
 
 ![screenshot](images/HTML Parser Images/Make Run.png)  
-Fig 1. The launch screen
+*Fig 1. The launch screen*
 
 ## 3. Additional Considerations
 

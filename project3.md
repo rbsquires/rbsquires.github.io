@@ -65,37 +65,37 @@ For more information, see the sample tutorial
 When a user loads the website, they are greeted by the Home page (see Fig 1). If the user is unregistered, they can click the Sign Up link in the description or at the top of the page. Alternatively, if already a registered user they can click the Login link and enter their credentials (see Fig 2).
 
 ![screenshot](images/5k Charity Images/Home Page.png)  
-Fig 1. Homepage
+*Fig 1. Home page*
 
 ![screenshot](images/5k Charity Images/Login Page.png)  
-Fig 2. Log In Page.
+*Fig 2. Log In page*
 
 Once the new user has clicked the Sign Up link, they will be taken to the Sign Up page (see Fig 3). The user then fills out all required registration fields (see Fig 4). If they have any errors in their entries, or left fields bank, they will be shown a list of the errors (see Fig 5).
 
 ![screenshot](images/5k Charity Images/Empty Sign Up Page.png)  
-Fig 3. Sign Up Page.
+*Fig 3. Sign Up page*
 
 ![screenshot](images/5k Charity Images/Filled Sign Up Page.png)  
-Fig 4. Ready to Sign Up Page.
+*Fig 4. Ready to Sign Up page*
 
 ![screenshot](images/5k Charity Images/Sign Up Errors.png)  
-Fig 5. Sign Up Page Errors.
+*Fig 5. Sign Up page errors*
 
 After logging in or creating an account, the user will be taken to their Profile page. The profile page displays the user's name, their team information (if applicable) and race schedule (see Fig 6). It also displays a map of the race route (see Fig 7).
 
 
 ![screenshot](images/5k Charity Images/Top Logged In Page.png)  
-Fig 6. Top of Profile Page.
+*Fig 6. Top of Profile page*
 
 ![screenshot](images/5k Charity Images/Bottom Logged In Page.png)  
-Fig 7. Bottom of Profile Page.
+*Fig 7. Bottom of Profile page*
 
 If the user has admin privileges, they will have an Admin link at the top of their profile page (see Fig 8). If the admin wants to grant or remove admin privileges to other registered user, they may do so after clicking the Admin link at the top, and navigating to the user's name, then clicking the Add/Remove Admin button next to the user (see Fig 9).
 
 ![screenshot](images/5k Charity Images/Profile Page Admin.png)  
-Fig 8. Admin Profile Page.
+*Fig 8. Admin Profile page*
 
 ![screenshot](images/5k Charity Images/Removing Admin.png)  
-Fig 9. Add/Remove Admin Privileges.
+*Fig 9. Add/Remove Admin Privileges*
 
 [Back to Portfolio](./)

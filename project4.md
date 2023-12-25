@@ -34,16 +34,15 @@ There are two ways to run this program, both requiring Visual Studio to be insta
 The user selected task file and scheduling algorithm are input as arguements in the Windows cmd terminal and the algorithm's output is displayed in the terminal (see Fig 1).
 
 ![screenshot](images/Scheduling Algorithms Images/Schedule PRI-RR Results.png)  
-Fig 1. The Sorting Algorithm Results.
+*Fig 1. The Sorting Algorithm Results*
 
 Alternatively, the user can run the program in the Visual Studio IDE. Load the project into Visual Studio. Right-click on the project folder inside the Solution Explorer pane on the right, and click Properties (see Fig 2). Then inside the properties window, click on Debugging. Enter the "desired task file" "desired algorithm" next to Command Arguments and click Ok (see Fig 3). Then click "Local Windows Debugger" button at the top of the IDE.
 
 ![screenshot](images/Scheduling Algorithms Images/Preferences.png)  
-Fig 2. Preferences in Visual Studio.
+*Fig 2. Preferences in Visual Studio*
 
 ![screenshot](images/Scheduling Algorithms Images/Arguments.png)  
-Fig 3. Setting Arguments in Visual Studio.
-
+*Fig 3. Setting Arguments in Visual Studio*
 
 
 ## 3. Additional Considerations
