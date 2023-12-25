@@ -36,7 +36,7 @@ All users can also view the recent news pages that the company has posted by cli
 
 Registered users can view the lesson calendar and select which open slot they would like to sign up for (see Fig 5).
 
-![screenshot](images/RRL Images/RRL Trainers.png)  
+![screenshot](images/RRL Images/RRL Calendar.png)  
 *Fig 5. The Calendar page*
 
 Registered users can view their recent riding lesson notes that their trainer has entered (see Fig 6).
