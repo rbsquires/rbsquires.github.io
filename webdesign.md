@@ -10,7 +10,7 @@ Rae's Riding Lessons Website Design
 
 ## Project description
 
-This project was for website for a small business that does horse riding lessons. It was a group project but I was in charge of the GUI Mockups. The requirements were for customer registration and lesson sign up on a calendar. Riding lesson trainer scheduling by the business admin, and an admin profile that could delegate admin privileges as well as edit the calendar for customers and trainers.
+This project was to design a website for a small business that does horse riding lessons. It was a group project but I was in charge of the GUI Mockups. The requirements were for customer registration and lesson sign up on a calendar. Riding lesson trainer scheduling by the business admin, and an admin profile that could delegate admin privileges as well as edit the calendar for customers and trainers.
 
 ## UI Design
 
