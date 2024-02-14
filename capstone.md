@@ -33,7 +33,7 @@ cmd(⌘) + r
 
 **Once the app has been loaded onto your device, it will be useable as long as developer mode is on*
 
-The user needs to  ensure that their OBD-II BLE device is fully connected to the ODD-II port under the dash. The user can then turn their vehicle's key to the on position or start the vehicle. Then start the app by tapping the OBD-II Buddy app icon (see Fig 1).
+The user needs to  ensure that their OBD-II BLE device is fully connected to the OBD-II port under the dash. The user can then turn their vehicle's key to the on position or start the vehicle. Then start the app by tapping the OBD-II Buddy app icon (see Fig 1).
 
 ![iPad-App-Icon](images/OBD-II Buddy Pictures/iPad/iPad App Icon.png)  
 *Fig 1. Device Home Screen*
