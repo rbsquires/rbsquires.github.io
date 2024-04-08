@@ -4,5 +4,11 @@ _site
 .jekyll-metadata
 vendor
 
-# DS_Store removal
-**/.DS_Store
+# DS_Store files
+*.DS_Store
+
+# Xcode Projects
+*.xcodeproj
+
+# Xcode Playgrounds
+*.xcplayground
