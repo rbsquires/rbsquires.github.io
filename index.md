@@ -85,7 +85,22 @@ Coder. Gear Head. Nomad spirit.
 <p>&nbsp;</p>
 
 ---
-## Programming Projects
+## Current Programming Projects
+
+*For access to my private project repositories, please [email me](mailto:rbsquires@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+
+---
+### [Swift Vapor | Learning Swift Vapor Framework](swiftVapor)
+
+![Swift-Vapor](images/SwiftVapor/SwiftVapor.png)
+
+---
+### [Swift DSA | Learning Data Structures and Algorithms in Swift](swiftDSA)
+
+![Swift_DSA](images/SwiftDSA/SwiftDSA.png)
+
+---
+## Completed Programming Projects
 
 *For access to my private project repositories, please [email me](mailto:rbsquires@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
@@ -115,7 +130,6 @@ Coder. Gear Head. Nomad spirit.
 ![HTMLParser](images/HTML Parser Images/Make Run.png)
 
 ---
-
 ## Design Projects
 
 ---
