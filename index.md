@@ -41,6 +41,7 @@ Coder. Gear Head. Nomad spirit.
 
 ### Frameworks:
 
+<img align="left" alt="Vapor" width="30px" style="padding-right:10px;" src="https://github.com/rbsquires/rbsquires.github.io/blob/master/images/SwiftVapor/Vapor.png" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Rails" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
