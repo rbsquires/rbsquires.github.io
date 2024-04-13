@@ -15,7 +15,7 @@ Coder. Gear Head. Nomad spirit.
 		</b>
 	</summary>
 	<p>
-		&emsp;&emsp;I started my coding journey as a Computer Science student with a passion to learn everything I could about making programs that would be useful. Since I use an iPhone, I wanted to teach myself iOS development with a dream to build my own app. Having a background as a mechanic, I chose to make an OBD-II application to bring together my love of vehicles and the technologies I have been learning throughout my education. I enjoy programming in C++ and Java, but have also grown to enjoy using Swift and SwiftUI specifically for Apple devices. I hope to continue growing my developer skill as a whole, as well as become more proficient in iOS, iPadOS, and macOS development. My next side project dream is to build my OBD-II logic in Rust, and integrate that into native GUIs for Apple and Android devices, using Swift/SwiftUI and Kotlin.
+		&emsp;&emsp;I started my coding journey as a Computer Science student with a passion to learn everything I could about making programs that would be useful. Since I use an iPhone, I wanted to teach myself iOS development with a dream to build my own app. Having a background as a mechanic, I chose to make an OBD-II application to bring together my love of vehicles and the technologies I have been learning throughout my education. I enjoy programming in C++ and Java, but have also grown to enjoy using Swift and SwiftUI specifically for Apple devices. I hope to continue growing my developer skill as a whole, as well as become more proficient in iOS, iPadOS, and macOS development. My next side projects will be learning Fullstack Development in Swift with Vapor, and embedded Swift programming.
 	</p>
 </details><br/>
 
