@@ -7,7 +7,7 @@ Scheduling Algorithms
 -   **Group: Christian H., Robert S.** 
 -   **Grade: A** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/rbsquires/SortingAlgorithms.git)  
+-   **Source Code Repository:** [CSCI 431 Sorting Algorithms](https://github.com/rbsquires/SortingAlgorithms.git)  
     (Please [email me](mailto:rbsquires@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
