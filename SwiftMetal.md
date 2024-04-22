@@ -4,7 +4,7 @@ Metal Shader Language
 ===============
 
 -   **Language(s): Metal, Swift and SwiftUI** 
--   **Source Code Repository:** [SwiftMetal](https://github.com/rbsquires/SwiftDSA)  
+-   **Source Code Repository:** [SwiftMetal](https://github.com/rbsquires/SwiftMetal)  
     (Please [email me](mailto:rbsquires@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
