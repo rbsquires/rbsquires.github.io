@@ -115,17 +115,17 @@ Coder. Gear Head. Nomad spirit.
 ![Capstone-Project](images/OBD-II Buddy Pictures/iPad/iPad Live Data.png)
 
 ---
-### [Scheduling Algorithms (Group Project) | CSCI 431](project4)
+### [Scheduling Algorithms | CSCI 431](project4)
 
 ![Scheduling-Algorithms](images/Scheduling Algorithms Images/Schedule PRI-RR Results.png)
 
 ---
-### [5k Charity Run Website (Group Project) | CSCI 334](project3)
+### [5k Charity Run Website | CSCI 334](project3)
 
 ![5k-Charity-Run](images/5k Charity Images/Home Page.png)
 
 ---
-### [Sudoku (Group Project) | CSCI 325](project2)
+### [Sudoku | CSCI 325](project2)
 
 ![Sudoku](images/Sudoku Images/Main GUI.png)
 
