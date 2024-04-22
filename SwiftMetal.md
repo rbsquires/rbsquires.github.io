@@ -11,7 +11,7 @@ Metal Shader Language
 
 Learning to do Metal shaders and animations in SwiftUI.
 
-![Swift-Vapor](images/SwiftMetal/Metal.png)
+![Swift-Metal](images/SwiftMetal/Metal.png)
 *Fig 1. Under Construction, will update as I progress through learning Metal*
 
 [Back to Portfolio](./)
