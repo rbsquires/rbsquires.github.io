@@ -95,6 +95,11 @@ Coder. Gear Head. Nomad spirit.
 ![Swift-Vapor](images/SwiftVapor/SwiftVapor.png)
 
 ---
+### [Metal | Learning Metal Shader Language](swiftMetal)
+
+![Swift-Vapor](images/SwiftMetal/Metal.png)
+
+---
 ### [Swift DSA | Learning Data Structures and Algorithms in Swift](swiftDSA)
 
 ![Swift_DSA](images/SwiftDSA/SwiftDSA.png)
